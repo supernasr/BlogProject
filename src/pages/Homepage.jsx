@@ -35,7 +35,7 @@ export default function Homepage() {
   return (
     
     <div className='bg-gray-800 min-h-[100vh]'>
-        <div className="flex justify-between px-10 items-center bg-gray-800 h-10 shadow-lg shadow-gray-700">
+        <div className="flex justify-between px-10 items-center bg-green-800 h-10 shadow-lg shadow-gray-700">
             <div className="left"><h1 className='text-white font-extrabold'>My-<span className='text-red-500 font-extrabold'>Blog</span></h1></div>
             <div className="">
                 <ul className='flex gap-5 text-white'>
